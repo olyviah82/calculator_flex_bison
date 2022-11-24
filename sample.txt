@@ -1,0 +1,3 @@
+VAR X=3 
+VAR Y=8
+VAR Z=X+Y
